@@ -1,6 +1,6 @@
-![logo](https://github.com/qier222/YesPlayMusic/raw/master/images/logo.png)
-# YesPlayMusic
+
+# R3Play(Xtify)
 高颜值的第三方网易云播放器
 
-[GitHub](https://github.com/qier222/YesPlayMusic)
+[Github](https://github.com/Sherlockouo/music)
 [开始使用](#main)
